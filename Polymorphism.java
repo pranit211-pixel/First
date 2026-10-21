@@ -1,5 +1,4 @@
-/* Name : Ajay Shewale
-Roll no : 71 */
+
 import java.util.*;
 import java.lang.System;
 class Publication
