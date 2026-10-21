@@ -1,5 +1,4 @@
-// Name : Shewale Ajay
-// Roll No : 71
+
 import java.util.*;
 class Employee
 {
