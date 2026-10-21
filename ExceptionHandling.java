@@ -1,5 +1,4 @@
-// Ajay Shewale 
-// Roll no.=71 
+
 import java.util.Scanner;
 
 public class ExceptionHandling 
