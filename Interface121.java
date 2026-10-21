@@ -1,5 +1,4 @@
-/* Name : Ajay Shewale
-   Roll No:71   */
+
 import java.util.Scanner;
 interface Vehicle{
 void gearUP();
